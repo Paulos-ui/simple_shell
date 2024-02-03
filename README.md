@@ -44,4 +44,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Jayeoba Paul]([https://github.com/paulos-ui]).
+All code written by [Jayeoba Paul]([https://github.com/Paulos-ui]).
